@@ -1,0 +1,11 @@
+{
+  "title": "home care",
+  "description": "Connect with verified caregivers and healthcare professionals through a user-friendly platform that simplifies booking home healthcare services.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
